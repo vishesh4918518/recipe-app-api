@@ -1,0 +1,5 @@
+[fkale8]
+exclude =
+  migrations,
+  __pychche__,
+  settings.py
